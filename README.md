@@ -43,4 +43,4 @@ This web version offers an interactive and visually appealing experience that wo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simon-game-web.git
+   git clone https://github.com/Matthew-Oj/Simon-Game.git
