@@ -40,7 +40,5 @@ This web version offers an interactive and visually appealing experience that wo
 - **JavaScript (ES6)**: For game logic and interactivity
 
 ## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Matthew-Oj/Simon-Game.git
+Click on link to play: 
+https://matthew-oj.github.io/Simon-Game/ 
